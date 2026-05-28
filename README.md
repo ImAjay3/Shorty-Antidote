@@ -88,19 +88,8 @@ Removing malicious files...
 Cleanup completed on E:
 ```
 
-## Alternative/Enhanced Solutions
-
-For more comprehensive malware removal, consider:
-- Windows Defender Full Scan
-- Malwarebytes
-- Kaspersky Rescue Disk
-- Professional antivirus software
-
 ## Author Notes
 This is a lightweight, portable solution ideal for quick cleanup of common USB/external drive infections. For persistent or advanced malware, professional antivirus tools are recommended.
-
-## License
-[Specify your license here - MIT, GPL, Proprietary, etc.]
 
 ---
 **Last Updated**: 2026  
