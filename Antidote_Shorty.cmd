@@ -1,8 +1,8 @@
 @echo off
 color 0A
-echo ===============
-echo Shorty-Antidote
-echo ===============
+echo =======================
+echo Shortcut virus-Antidote
+echo =======================
 echo.
 
 :: Ask user for drive letter
